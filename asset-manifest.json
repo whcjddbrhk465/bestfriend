@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bestfriend/static/css/main.d973ddeb.chunk.css",
+    "main.js": "/bestfriend/static/js/main.68e6844d.chunk.js",
+    "main.js.map": "/bestfriend/static/js/main.68e6844d.chunk.js.map",
+    "runtime~main.js": "/bestfriend/static/js/runtime~main.2c9072d0.js",
+    "runtime~main.js.map": "/bestfriend/static/js/runtime~main.2c9072d0.js.map",
+    "static/js/2.c76cc4b7.chunk.js": "/bestfriend/static/js/2.c76cc4b7.chunk.js",
+    "static/js/2.c76cc4b7.chunk.js.map": "/bestfriend/static/js/2.c76cc4b7.chunk.js.map",
+    "index.html": "/bestfriend/index.html",
+    "precache-manifest.4c638a7dca9dd699ca5d05d5ed3d5124.js": "/bestfriend/precache-manifest.4c638a7dca9dd699ca5d05d5ed3d5124.js",
+    "service-worker.js": "/bestfriend/service-worker.js",
+    "static/css/main.d973ddeb.chunk.css.map": "/bestfriend/static/css/main.d973ddeb.chunk.css.map",
+    "static/media/index.css": "/bestfriend/static/media/wallpaper.0f330e2d.jpg"
+  }
+}
