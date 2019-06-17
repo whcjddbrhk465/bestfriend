@@ -28,6 +28,6 @@
       "last 1 safari version"
     ]
   }
-  "homepage" : "http://whcjddbrhk465.github.io/bestfriend"
+  "homepage": "http://whcjddbrhk465.github.io/bestfriend"
   "deploy": "npm run build &&gh-pages -d build"
 }
