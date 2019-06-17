@@ -29,4 +29,5 @@
     ]
   }
   "homepage" : "http://whcjddbrhk465.github.io/bestfriend"
+  "deploy": "npm run build &&gh-pages -d build"
 }
